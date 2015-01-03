@@ -8,3 +8,5 @@
 - PGA113 programmable gain amplifier in VSSOP package
 - Hirose micro SD card connector
 - Trinket Pro
+
+Licensed under: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
